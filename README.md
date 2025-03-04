@@ -27,12 +27,10 @@ Run the Server:
 
 bash
 python manage.py runserver
-Then open http://127.0.0.1:8000/textbooks/COURSECODE/ in your browser, replacing COURSECODE with a valid course code.
 
 Admin Access
 To add textbook entries via the Django admin:
 
-Create a superuser:
 bash
 python manage.py createsuperuser
 Access the admin at http://127.0.0.1:8000/admin/.
