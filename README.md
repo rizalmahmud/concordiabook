@@ -7,7 +7,7 @@ Availability Filtering: Only shows textbooks marked as available.
 User-Friendly Template: Shows textbook details or a "no results" message if none are found.
 Setup
 Clone the Repository:
-git clone https://github.com/yourusername/concordiabook.git
+git clone https://github.com/rizalmahmud/concordiabook.git
 cd concordiabook
 Create and Activate a Virtual Environment:
 
